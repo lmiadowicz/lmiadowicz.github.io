@@ -63,25 +63,9 @@ logo__items:
     link: "https://www.google.com/"
     image: "/images/google.svg"
 
-  - name: Spotify
-    link: "https://www.spotify.com/"
-    image: "/images/spotify.svg"
-
-  - name: Pinterest
-    link: "https://www.pinterest.com/"
-    image: "/images/pinterest.svg"
-
-  - name: Netlify
-    link: "https://www.netlify.com/"
-    image: "/images/netlify.svg"
-
-  - name: Apple
-    link: "https://www.apple.com/"
-    image: "/images/apple.svg"
-
-  - name: Adobe
-    link: "https://www.adobe.com/"
-    image: "/images/adobe.svg"
+  - name: AirHelp
+    link: "https://www.airhelp.com/"
+    image: "/images/airhelp.png"
 
 #-------------------------------
 # Newsletter
