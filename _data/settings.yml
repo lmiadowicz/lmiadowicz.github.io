@@ -85,8 +85,8 @@ mailchimp:
 # Work Settings
 work:
   enable: true
-  work__title: Work
-  work__description: I shows only the best websites and portfolios built completely with passion, simplicity & creativity!
+  work__title: Projects
+  work__description: Projects I work on during my career
 
 
 #-------------------------------
@@ -94,7 +94,7 @@ work:
 testimonials:
   enable: true
 
-testimonial__title: Clients
+testimonial__title: Recommendations
 testimonial__description:
 
 testimonial__items:
@@ -159,7 +159,7 @@ blog:
   enable: true
 
 blog__settings:
-  blog__title: Writing
+  blog__title: Blog
   blog__description:
 
 
