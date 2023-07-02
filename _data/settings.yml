@@ -71,6 +71,10 @@ logo__items:
     link: "https://www.huuuge.com/"
     image: "/images/huuuge.svg"
 
+  - name: Scalac Inc.
+    link: "https://www.scalac.io/"
+    image: "/images/scalac.svg"
+
 
 #-------------------------------
 # Newsletter
