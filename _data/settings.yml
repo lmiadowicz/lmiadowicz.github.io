@@ -19,8 +19,7 @@ menu__settings:
     - title: 'Writing'
       url: '/blog/'
     - title: 'Contact'
-      - url: '/contact/'
-        title: 'Contact'
+      url: '/contact/'
     # - title: 'Pages'
     #   submenu:
     #   - url: '/contact/'
@@ -169,7 +168,8 @@ blog__settings:
   blog__title: Blog
   blog__description:
 
-
+post:
+  image: false
 #-------------------------------
 # Footer Settings
 footer__background__image: ""
