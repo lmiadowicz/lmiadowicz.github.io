@@ -15,7 +15,7 @@
           <p class="hero__description">{{ site.data.settings.hero.hero__description }}</p>
 
           {% if site.data.settings.mailchimp.enable == true %}
-          <div class="social">
+          <div class="hero__social_icons">
             <ul class="social__list list-reset">
               {% for social in site.data.settings.social %}
               <li class="social__item">
@@ -26,7 +26,7 @@
             </ul>
           </div>
           <div>
-            
+
           </div>
           <div class="hero__subscribe">
             <form class="subscribe-form validate"
