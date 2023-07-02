@@ -31,7 +31,7 @@ menu__settings:
 author:
   author__name: Łukasz Miądowicz
   author__bio: Hi, I'm Łukasz – Product Manager transitining to Software Engineer with focus on JVM based languages. 
-  author__avatar: '/images/01.png'
+  author__avatar: ''
 
 social:
 - {icon: "ion-logo-github", link: "https://github.com/lmiadowicz"}
