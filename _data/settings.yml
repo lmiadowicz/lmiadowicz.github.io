@@ -63,9 +63,14 @@ logo__items:
     link: "https://www.google.com/"
     image: "/images/google.svg"
 
-  - name: AirHelp
+  - name: AirHelp Inc.
     link: "https://www.airhelp.com/"
     image: "/images/airhelp.svg"
+
+  - name: Huuuge Inc.
+    link: "https://www.huuuge.com/"
+    image: "/images/huuuge.svg"
+
 
 #-------------------------------
 # Newsletter
