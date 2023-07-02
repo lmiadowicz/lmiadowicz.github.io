@@ -26,6 +26,16 @@
                 site.data.settings.mailchimp.mailchimp__button__text }}</button>
             </form>
           </div>
+          <div class="social">
+            <ul class="social__list list-reset">
+              {% for social in site.data.settings.social %}
+              <li class="social__item">
+                <a class="social__link" href="{{social.link}}" target="_blank" rel="noopener"
+                  aria-label="Social link"><i class="ion {{social.icon}}"></i></a>
+              </li>
+              {% endfor %}
+            </ul>
+          </div>
           {% endif %}
         </div>
       </div>
