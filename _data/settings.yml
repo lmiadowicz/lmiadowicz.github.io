@@ -162,6 +162,9 @@ testimonial__items:
 blog:
   enable: true
 
+post:
+  image: false
+
 blog__settings:
   blog__title: Blog
   blog__description:
