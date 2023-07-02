@@ -168,8 +168,6 @@ blog__settings:
   blog__title: Blog
   blog__description:
 
-post:
-  image: false
 #-------------------------------
 # Footer Settings
 footer__background__image: ""
