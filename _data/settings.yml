@@ -3,7 +3,7 @@
 title: miadowicz
 logo: # You can add own logo. For example '/images/logo.png'.
 description: miadowicz dev & product journal.
-color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
+color_scheme: dark # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 
 #-------------------------------
@@ -169,7 +169,7 @@ blog__settings:
 
 #-------------------------------
 # Footer Settings
-footer__background__image: "/images/bg.jpg"
+footer__background__image: ""
 
 #-------------------------------
 # Contact Settings
@@ -184,7 +184,7 @@ contact:
 #-------------------------------
 # Comment Section (Disqus)
 disqus:
-  enable: true
+  enable: false
   disqus__identifier: anvod-studio-test # Add your shortname for Disqus Comment. For example anvod-studio-test
 
 
