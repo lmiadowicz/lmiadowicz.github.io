@@ -50,7 +50,7 @@ social:
 hero:
   enable: true
   hero__title: Hi, my name is Łukasz Miądowicz
-  hero__description: Product Manager transitining to full-time Software Engineer with focus on JVM based languages. 
+  hero__description: I'm Product Manager transitining to full-time Software Engineer with focus on JVM based languages. 
   hero__image: "/images/01-1.jpg"
 
 
