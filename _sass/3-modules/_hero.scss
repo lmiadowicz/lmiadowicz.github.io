@@ -59,19 +59,6 @@
   }
 }
 
-.hero__social_icons {
-  margin-top: 10px;
-  color: var(--text-alt-color);
-
-  @media (max-width: $wide) {
-    font-size: 20px;
-  }
-
-  @media (max-width: $desktop) {
-    font-size: inherit;
-  }
-}
-
 .hero__subscribe {
   margin-top: 28px;
 
