@@ -49,7 +49,7 @@ social:
 # Hero Settings
 hero:
   enable: true
-  hero__title: Hi, I'm Łukasz Miądowicz
+  hero__title: Hi, my name is Łukasz Miądowicz
   hero__description: Product Manager transitining to full-time Software Engineer with focus on JVM based languages. 
   hero__image: "/images/01-1.jpg"
 
