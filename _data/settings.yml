@@ -164,6 +164,7 @@ blog:
 
 post:
   image: false
+  description: false
 
 blog__settings:
   blog__title: Blog
