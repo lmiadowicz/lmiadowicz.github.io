@@ -129,6 +129,18 @@ We threw him at our toughest problems and he cleaned up our act in so many areas
     link: "https://www.linkedin.com/in/jacek-kwiatkowski-ph-d-a1b727107"
     content : "Łukasz is a very talented guy with an excellent educational background. His technical skills include: python programming, postgresql, tableau and extensive knowledge of the F2P market. He is self-reliant and business oriented, a nice fellow and team player."
 
+  - name: "Emma Chambers"
+    image: "/images/rec_emma_chambers.jpeg"
+    designation: "Data.AI, Enterprise Customer Success Manager"
+    link: "https://www.linkedin.com/in/emma-chambers/"
+    content : "Łukasz is an absolute rockstar to work with - extremely easy to work with on projects and is an absolute professional! During my time working with Łukasz, he has been on top of some very technical projects using API to pull complex datasets in bulk around the top mobile games, their performance across the market, and being able to synthesise some great nuggets of insights from these for his team to take action from."
+
+ - name: "Luka Sučić"
+    image: "/images/rec-luka-metachangecapital.jpeg"
+    designation: "Meta Change Capital, Partner"
+    link: "https://www.linkedin.com/in/lukasucic"
+    content : "Łukasz is one of those rare critical thinkers that is not encumbered by theoreticising but it's ready to spring into action. Very positive and creative at the same time with a vast area of interests. A pleasure to work with"
+
   - name: "Maciej Gren"
     image: "/images/rec_mat_scalac.jpeg"
     designation: "Scala, iCEO"
@@ -141,13 +153,7 @@ We threw him at our toughest problems and he cleaned up our act in so many areas
     link: "https://twitter.com/"
     content : "I worked with Lukasz on his social startup project. He is phenomenal if it comes to ideas, he's bright thinking and open minded visionary. He have fantastic technical background and design sense what makes him experienced in every Internet business. I recommend this Start-Up Toreador as perfect consultant. "
 
-  - name: "Luka Sučić"
-    image: "/images/rec-luka-metachangecapital.jpeg"
-    designation: "Meta Change Capital, Partner"
-    link: "https://www.linkedin.com/in/lukasucic"
-    content : "Łukasz is one of those rare critical thinkers that is not encumbered by theoreticising but it's ready to spring into action. Very positive and creative at the same time with a vast area of interests. A pleasure to work with
-"
-
+ 
   - name: "Madelyn Herwitz"
     image: "/images/client-7.jpg"
     designation: "Frontend Engineer"
