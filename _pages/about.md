@@ -1,13 +1,13 @@
 ---
 layout: page
 title: About
-description: 10+ years of experience in Product Management, AI, Data Analysis, Data Engineering in Startups, Scaleups & Corporations
+description:
 permalink: /about/
 image: 
 image_caption: 
 ---
 
-I am a versatile professional with over a 10+ years of experience in product management, data engineering, data analysis, and business development. From my early days in quantum computing and quantum chemistry research to co-founding an augmented reality, EEG & IoT startups, I have gained diverse expertise.
+I am a versatile professional with over a <b>10+</b> years of experience in product management, data engineering, data analysis, and business development in Startups, Scaleups & Corporations. From my early days in quantum computing and quantum chemistry research to co-founding an augmented reality, EEG & IoT startups, I have gained diverse expertise.
 
 I have worked/co-oped with leading companies like Google, Intel, Huuuge Games, STX Next, and AirHelp, Scalac where I excelled in roles ranging from data engineer to senior product manager. 
 
