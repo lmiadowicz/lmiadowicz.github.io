@@ -32,7 +32,7 @@ menu__settings:
 # Author Settings
 author:
   author__name: Łukasz Miądowicz
-  author__bio: Hi, I'm Łukasz – Product Manager transitining to Software Engineer with focus on JVM based languages. 
+  author__bio: Hi, I'm Łukasz – Product Manager transitioning to become a Software Engineer with a focus on backend development in JVM-based languages.
   author__avatar: '/images/avatar.png'
 
 social:
@@ -50,7 +50,7 @@ social:
 hero:
   enable: true
   hero__title: Hi, my name is Łukasz Miądowicz
-  hero__description: I'm Product Manager transitining to full-time Software Engineer with focus on JVM based languages. 
+  hero__description: 
   hero__image: "/images/01-1.jpg"
 
 
