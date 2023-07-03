@@ -21,4 +21,4 @@ git push origin gh-pages
 {% endhighlight %}
 branch and that's it. 
 
-Worth noticing is that if you want to have your webiste at e.g. <code><github-username>.github.io</code> you need to have repo named <code><github-username>.github.io</code>.
+Worth noticing is that if you want to have your webiste at e.g. <code>&lt;github-username&gt;.github.io</code> you need to have repo named <code>&lt;github-username&gt;.github.io</code>.
