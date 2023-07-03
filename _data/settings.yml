@@ -114,7 +114,8 @@ testimonial__items:
     image: "/images/rec-ash-airhelp.jpeg"
     designation: "AirHelp, CTO & CDO"
     link: "https://www.linkedin.com/in/ashleyraiteri"
-    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+    content : "It took me 6 months to recruit Lukas. That’s how confident I was in the value he would bring to our company. He did not disappoint.
+We threw him at our toughest problems and he cleaned up our act in so many areas. At hackathons he pushed through new ideas and machine learning possibilities and we made him an honorary member of the Data science group even though the Partners team couldn’t afford to lose him. Lukas goes looking for trouble and then he fixes it and finds more trouble to fix down the road. Amazing Product and Analysis skills as well as a strong team leader."
 
   - name: "Jacek Kwiatkowski, Ph.D."
     image: "/images/rec_jacek_huuuge.jpeg"
@@ -134,11 +135,12 @@ testimonial__items:
     link: "https://twitter.com/"
     content : "I worked with Lukasz on his social startup project. He is phenomenal if it comes to ideas, he's bright thinking and open minded visionary. He have fantastic technical background and design sense what makes him experienced in every Internet business. I recommend this Start-Up Toreador as perfect consultant. "
 
-  - name: "Mira Carder"
-    image: "/images/client-6.jpg"
-    designation: "Data Scientist"
-    link: "https://facebook.com/"
-    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+  - name: "Luka Sučić"
+    image: "/images/rec-luka-metachangecapital.jpeg"
+    designation: "Meta Change Capital, Partner"
+    link: "https://www.linkedin.com/in/lukasucic"
+    content : "Łukasz is one of those rare critical thinkers that is not encumbered by theoreticising but it's ready to spring into action. Very positive and creative at the same time with a vast area of interests. A pleasure to work with
+"
 
   - name: "Madelyn Herwitz"
     image: "/images/client-7.jpg"
