@@ -127,8 +127,7 @@ testimonial__items:
     image: "/images/rec-ash-airhelp.jpeg"
     designation: "AirHelp, CTO & CDO"
     link: "https://www.linkedin.com/in/ashleyraiteri"
-    content : "It took me 6 months to recruit Lukas. That’s how confident I was in the value he would bring to our company. He did not disappoint.
-We threw him at our toughest problems and he cleaned up our act in so many areas. At hackathons he pushed through new ideas and machine learning possibilities and we made him an honorary member of the Data science group even though the Partners team couldn’t afford to lose him. Lukas goes looking for trouble and then he fixes it and finds more trouble to fix down the road. Amazing Product and Analysis skills as well as a strong team leader."
+    content : "It took me 6 months to recruit Lukas. That is how confident I was in the value he would bring to our company. He did not disappoint. We threw him at our toughest problems and he cleaned up our act in so many areas. At hackathons he pushed through new ideas and machine learning possibilities and we made him an honorary member of the Data science group even though the Partners team couldn’t afford to lose him. Lukas goes looking for trouble and then he fixes it and finds more trouble to fix down the road. Amazing Product and Analysis skills as well as a strong team leader."
 
   - name: "Jacek Kwiatkowski, Ph.D."
     image: "/images/rec_jacek_huuuge.jpeg"
@@ -142,7 +141,7 @@ We threw him at our toughest problems and he cleaned up our act in so many areas
     link: "https://www.linkedin.com/in/emma-chambers/"
     content : "Łukasz is an absolute rockstar to work with - extremely easy to work with on projects and is an absolute professional! During my time working with Łukasz, he has been on top of some very technical projects using API to pull complex datasets in bulk around the top mobile games, their performance across the market, and being able to synthesise some great nuggets of insights from these for his team to take action from."
 
- - name: "Luka Sučić"
+  - name: "Luka Sučić"
     image: "/images/rec-luka-metachangecapital.jpeg"
     designation: "Meta Change Capital, Partner"
     link: "https://www.linkedin.com/in/lukasucic"
