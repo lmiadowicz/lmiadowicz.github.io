@@ -7,20 +7,12 @@ image:
 image_caption: 
 ---
 
-I am a versatile professional with a strong background in product management, data engineering, and business development. With over a decade of experience working in the tech industry, I have successfully contributed to the growth and success of various companies, including startups and top Forbes 500 organizations.
+I am a versatile professional with over a decade of experience in product management, data engineering, and business development. From my early days in quantum computing and quantum chemistry research to co-founding an augmented reality startup, I have gained diverse expertise.
 
-My journey began during my studies at Gdańsk University of Technology, where I worked as a research assistant and teaching assistant in the field of quantum computing and quantum chemistry. This experience allowed me to develop expertise in programming scientific packages and laid the foundation for my future career in technology.
+I have worked at leading companies like Huuuge Games, STX Next, and AirHelp, where I excelled in roles ranging from software engineer to senior product manager. Consulting for top Forbes 500 companies on AI implementations has been a recent focus.
 
-I started my professional career as a software engineer, working on projects related to augmented reality, marketing, and IoT solutions. I co-founded a company called ARound, where we developed computer vision-based systems for augmented reality and marketing, winning the prestigious INTEL prize for our NeurON system that combined AR with brainwave analysis.
+Continuously expanding my skill set, I completed the Deep Learning Nanodegree program, specializing in deep learning algorithms and technologies like TensorFlow.
 
-From there, I transitioned to roles in data analysis and business development at Huuuge Games, a leading gaming company. I gained valuable insights into business intelligence and successfully managed the Huuuge Fund and Huuuge Publishing departments, contributing to the company's growth and expansion.
+With a passion for leveraging technology and data to drive innovation, I bring a unique perspective to every project. I am always eager to take on new challenges and contribute to the growth and success of tech companies.
 
-I later ventured into the field of product management, working as a senior product manager at STX Next, where I honed my skills in managing and delivering successful products. I also served as a senior technical product manager at AirHelp, where I focused on leveraging my technical expertise to drive product development.
-
-In recent years, I have been involved in consulting top Forbes 500 companies on product management and data engineering in the context of AI implementations. I have worked with Qtravel.ai and Daugherty Business Solutions, providing strategic guidance and helping organizations harness the power of AI in their products and services.
-
-Throughout my career, I have continually expanded my skill set, including completing the Deep Learning Nanodegree program offered by Udacity, where I developed proficiency in deep learning algorithms and technologies such as TensorFlow.
-
-With my diverse background and expertise in product management, data engineering, and business development, I bring a unique perspective to every project I undertake. I am passionate about leveraging technology and data to drive innovation and create impactful solutions. I am always eager to take on new challenges and contribute to the growth and success of companies in the tech industry.
-
-Feel free to connect with me on my blog and profile page to learn more about my experiences and insights in the world of technology and business.
+Connect with me on my blog and profile page for more insights into the world of technology and business.
