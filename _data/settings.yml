@@ -175,8 +175,8 @@ footer__background__image: "/images/footer2.jpg"
 #-------------------------------
 # Contact Settings
 contact:
-  email: your@email.com # Add your form_id
-  description: Akio comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
+  email: lmiadowicz@gmail.com # Add your form_id
+  description: Feel free to connect me over email: lmiadowicz_at_gmail.com or <a href="https://www.linkedin.com/in/lukaszmiadowicz/">LinkedIn</>
 
 # NOTE
 # Akio theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
