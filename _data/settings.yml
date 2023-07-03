@@ -89,8 +89,8 @@ logo__items:
 #-------------------------------
 # Newsletter
 mailchimp:
-  enable: true
-  mailchimp__identifier: frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
+  enable: false
+  mailchimp__identifier: github.us8.list-manage.com/subscribe/post?u=8a400bd5c1bdfeebe6788e3d7&amp;id=e1f8206f8c&amp;f_id=000f0ae0f0
   mailchimp__input__text: Your email address...
   mailchimp__button__text: Subscribe
 
