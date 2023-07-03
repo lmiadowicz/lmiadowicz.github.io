@@ -104,35 +104,35 @@ testimonial__title: Recommendations
 testimonial__description:
 
 testimonial__items:
-  - name: "Hanna Septimus"
-    image: "/images/client-1.jpg"
-    designation: "Product Designer"
+  - name: "Norbert Simionescu"
+    image: "/images/rec_norbert_google.jpeg"
+    designation: "Google, Industry Manager"
+    link: "https://www.linkedin.com/in/norbertsimionescu"
+    content : "I've worked with Łukasz during his time at Huuuge Games on several topics around publishing, monetization and user acquisition. I can only recommend working with him, not only because of his vast gaming knowledge but also for his top notch analytical skills. "
+
+  - name: "Ashley Raiteri"
+    image: "/images/rec-ash-airhelp.jpeg"
+    designation: "AirHelp, CTO & CDO"
+    link: "https://www.linkedin.com/in/ashleyraiteri"
+    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+
+  - name: "Jacek Kwiatkowski, Ph.D."
+    image: "/images/rec_jacek_huuuge.jpeg"
+    designation: "Huuuge Games, Data Scientist"
+    link: "https://www.linkedin.com/in/jacek-kwiatkowski-ph-d-a1b727107"
+    content : "Łukasz is a very talented guy with an excellent educational background. His technical skills include: python programming, postgresql, tableau and extensive knowledge of the F2P market. He is self-reliant and business oriented, a nice fellow and team player."
+
+  - name: "Maciej Gren"
+    image: "/images/rec_mat_scalac.jpeg"
+    designation: "Scala, iCEO"
+    link: "https://www.linkedin.com/in/maciejgren/"
+    content : "I remember Lukasz as as calm and professional colleague who understands the startup ecosystem and product lifecycle. Lukasz was a very supportive and content Product Owner with a proper attitude and methodic approach."
+
+  - name: "Maciek Żabniak"
+    image: "/images/rec_maciek_speednet"
+    designation: "Speednet, Senior Product Designer"
     link: "https://twitter.com/"
-    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
-
-  - name: "Carla Rosser"
-    image: "/images/client-2.jpg"
-    designation: "Statistician"
-    link: "https://facebook.com/"
-    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
-
-  - name: "Maria Curtis"
-    image: "/images/client-3.jpg"
-    designation: "Team Lead"
-    link: "https://twitter.com/"
-    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
-
-  - name: "Carter Bergson"
-    image: "/images/client-4.jpg"
-    designation: "CEO, Founder"
-    link: "https://facebook.com/"
-    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
-
-  - name: "Jordyn Franci"
-    image: "/images/client-5.jpg"
-    designation: "Personal Trainer"
-    link: "https://twitter.com/"
-    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+    content : "I worked with Lukasz on his social startup project. He is phenomenal if it comes to ideas, he's bright thinking and open minded visionary. He have fantastic technical background and design sense what makes him experienced in every Internet business. I recommend this Start-Up Toreador as perfect consultant. "
 
   - name: "Mira Carder"
     image: "/images/client-6.jpg"
