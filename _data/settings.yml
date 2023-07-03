@@ -170,7 +170,7 @@ blog__settings:
 
 #-------------------------------
 # Footer Settings
-footer__background__image: "/images/footer.jpeg"
+footer__background__image: "/images/footer.jpg"
 
 #-------------------------------
 # Contact Settings
