@@ -109,7 +109,6 @@ testimonials:
   enable: true
 
 testimonial__title: Recommendations
-testimonial__description:
 
 testimonial__items:
   - name: "Norbert Simionescu"
@@ -161,7 +160,6 @@ We threw him at our toughest problems and he cleaned up our act in so many areas
     link: "https://twitter.com/"
     content : "I worked with Lukasz on his social startup project. He is phenomenal if it comes to ideas, he's bright thinking and open minded visionary. He have fantastic technical background and design sense what makes him experienced in every Internet business. I recommend this Start-Up Toreador as perfect consultant. "
 
- 
   - name: "Madelyn Herwitz"
     image: "/images/client-7.jpg"
     designation: "Frontend Engineer"
