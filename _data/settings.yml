@@ -50,7 +50,7 @@ social:
 hero:
   enable: true
   hero__title: Hi, my name is Łukasz Miądowicz
-  hero__description: Product Manager transitioning to become a Software Engineer with a focus on backend development in JVM-based languages.
+  hero__description: Product Manager & Data Analyst transitioning to become a Software Engineer with a focus on backend development in JVM-based languages.
   hero__image: "/images/01-1.jpg"
 
 
@@ -170,7 +170,7 @@ blog__settings:
 
 #-------------------------------
 # Footer Settings
-footer__background__image: "/images/footer.png"
+footer__background__image: "/images/footer2.png"
 
 #-------------------------------
 # Contact Settings
