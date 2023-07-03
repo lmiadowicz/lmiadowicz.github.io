@@ -157,26 +157,7 @@ testimonial__items:
     image: "/images/rec_maciek_speednet.jpeg"
     designation: "Speednet, Senior Product Designer"
     link: "https://twitter.com/"
-    content : "I worked with Lukasz on his social startup project. He is phenomenal if it comes to ideas, he's bright thinking and open minded visionary. He have fantastic technical background and design sense what makes him experienced in every Internet business. I recommend this Start-Up Toreador as perfect consultant. "
-
-  - name: "Madelyn Herwitz"
-    image: "/images/client-7.jpg"
-    designation: "Frontend Engineer"
-    link: "https://twitter.com/"
-    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
-
-  - name: "Anika Schleifer"
-    image: "/images/client-8.jpg"
-    designation: "Fitness Director"
-    link: "https://facebook.com/"
-    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
-
-  - name: "Wilson Dorwart"
-    image: "/images/client-9.jpg"
-    designation: "Financial Manager"
-    link: "https://twitter.com/"
-    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
-
+    content : "I worked with Lukasz on his social startup project. He is phenomenal if it comes to ideas, he's bright thinking and open minded visionary. He have fantastic technical background and design sense what makes him experienced in every Internet business. I recommend this Start-Up Toreador as perfect consultant. " 
 
 #-------------------------------
 # Blog Section
