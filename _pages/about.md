@@ -3,36 +3,24 @@ layout: page
 title: About
 description: I'm a creative and curious person who has a lot of experience and fond moments working with design, websites, and marketing.
 permalink: /about/
-image: '/images/01-2.jpg'
-image_caption: 'Photo by [Bruce Dixon](https://unsplash.com/photos/3M9WJQVHzog) on [Unsplash](https://unsplash.com/)'
+image: 
+image_caption: 
 ---
 
-Hymnals are books with collections of musical hymns that can typically be found in churches. Prayerbooks or missals are books that contain written prayers and are commonly carried by monks, nuns, and other devoted followers or clergy. Lap books are a learning tool created by students.
+I am a versatile professional with a strong background in product management, data engineering, and business development. With over a decade of experience working in the tech industry, I have successfully contributed to the growth and success of various companies, including startups and top Forbes 500 organizations.
 
-There are several other types of books which are not commonly found under this system. Albums are books for holding a group of items belonging to a particular theme, such as a set of photographs, card collections, and memorabilia. One common example is stamp albums, which are used by many hobbyists to protect and organize their collections of postage stamps. Such albums are often made using removable plastic pages held inside in a ringed binder or other similar holder. Picture books are books for children with pictures on every page and less text (or even no text).
+My journey began during my studies at Gdańsk University of Technology, where I worked as a research assistant and teaching assistant in the field of quantum computing and quantum chemistry. This experience allowed me to develop expertise in programming scientific packages and laid the foundation for my future career in technology.
 
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/100.jpg" loading="lazy">
-    <img src="/images/101.jpg" loading="lazy">
-    <img src="/images/102.jpg" loading="lazy">
-  </div>
-  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
-</div>
+I started my professional career as a software engineer, working on projects related to augmented reality, marketing, and IoT solutions. I co-founded a company called ARound, where we developed computer vision-based systems for augmented reality and marketing, winning the prestigious INTEL prize for our NeurON system that combined AR with brainwave analysis.
 
-Dummy books (or faux books) are books that are designed to imitate a real book by appearance to deceive people, some books may be whole with empty pages, others may be hollow or in other cases, there may be a whole panel carved with spines which are then painted to look like books, titles of some books may also be fictitious.
+From there, I transitioned to roles in data analysis and business development at Huuuge Games, a leading gaming company. I gained valuable insights into business intelligence and successfully managed the Huuuge Fund and Huuuge Publishing departments, contributing to the company's growth and expansion.
 
-> The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!
+I later ventured into the field of product management, working as a senior product manager at STX Next, where I honed my skills in managing and delivering successful products. I also served as a senior technical product manager at AirHelp, where I focused on leveraging my technical expertise to drive product development.
 
-The advent of paperback books in the 20th century led to an explosion of popular publishing. Paperback books made owning books affordable for many people. Paperback books often included works from genres that had previously been published mostly in pulp magazines. As a result of the low cost of such books and the spread of bookstores filled with them (in addition to the creation of a smaller market of extremely cheap used paperbacks) owning a private library ceased to be a status symbol for the rich.
+In recent years, I have been involved in consulting top Forbes 500 companies on product management and data engineering in the context of AI implementations. I have worked with Qtravel.ai and Daugherty Business Solutions, providing strategic guidance and helping organizations harness the power of AI in their products and services.
 
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/103.jpg" loading="lazy">
-  </div>
-  <em>Photo by <a href="https://unsplash.com/photos/TMpQ5R9mbOc" target="_blank">Caroline Hernandez</a></em>
-</div>
+Throughout my career, I have continually expanded my skill set, including completing the Deep Learning Nanodegree program offered by Udacity, where I developed proficiency in deep learning algorithms and technologies such as TensorFlow.
 
-This form of the book chain has hardly changed since the eighteenth century, and has not always been this way. Thus, the author has asserted gradually with time, and the copyright dates only from the nineteenth century. For many centuries, especially before the invention of printing, each freely copied out books that passed through his hands, adding if necessary his own comments. Similarly, bookseller and publisher jobs have emerged with the invention of printing, which made the book an industrial product, requiring structures of production and marketing.
+With my diverse background and expertise in product management, data engineering, and business development, I bring a unique perspective to every project I undertake. I am passionate about leveraging technology and data to drive innovation and create impactful solutions. I am always eager to take on new challenges and contribute to the growth and success of companies in the tech industry.
 
-Paper was first made in China as early as 200 BC, and reached Europe through Muslim territories. At first made of rags, the industrial revolution changed paper-making practices, allowing for paper to be made out of wood pulp. Papermaking in Europe began in the 11th century, although vellum was also common there as page material up until the beginning of the 16th century, vellum being the more expensive and durable option.
+Feel free to connect with me on my blog and profile page to learn more about my experiences and insights in the world of technology and business.
