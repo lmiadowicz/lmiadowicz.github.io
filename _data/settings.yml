@@ -98,7 +98,7 @@ mailchimp:
 #-------------------------------
 # Work Settings
 work:
-  enable: true
+  enable: false
   work__title: Projects
   work__description: Projects I work on during my career
 
