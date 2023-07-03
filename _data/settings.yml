@@ -32,7 +32,7 @@ menu__settings:
 # Author Settings
 author:
   author__name: Łukasz Miądowicz
-  author__bio: Product Manager transitioning to become a Software Engineer with a focus on backend development in JVM-based languages.
+  author__bio: Product Manager & Data Analyst transitioning to become a Software Engineer with a focus on backend development in JVM-based languages.
   author__avatar: '/images/avatar.png'
 
 social:
@@ -64,6 +64,14 @@ logo__items:
   - name: Google
     link: "https://www.google.com/"
     image: "/images/google.svg"
+
+  - name: Intel
+    link: "https://www.intel.com/"
+    image: "/images/intel.svg"
+
+  - name: Data.ai
+    link: "https://www.data.ai/"
+    image: "/images/dataai.svg"
 
   - name: AirHelp Inc.
     link: "https://www.airhelp.com/"
