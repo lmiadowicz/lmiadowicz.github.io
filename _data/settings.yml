@@ -32,7 +32,7 @@ menu__settings:
 # Author Settings
 author:
   author__name: Łukasz Miądowicz
-  author__bio: Product Manager & Data Analyst transitioning to become a Software Engineer with a focus on backend development in JVM-based languages.
+  author__bio: Product Manager, Data Analyst, Quantum Scientist, Biz Dev with 10+ years of experience.
   author__avatar: '/images/avatar.png'
 
 social:
